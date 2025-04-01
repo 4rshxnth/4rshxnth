@@ -68,7 +68,7 @@
 
 <h1 align="center">💭 Quotes For The Day </h1>
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="200" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="165" />
 </div>
 
 <div align="center">
