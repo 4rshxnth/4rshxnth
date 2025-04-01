@@ -53,17 +53,22 @@
 <br/>
 
 <h1 align="center">⚡ GitHub Stats ⚡</h1>
+<p align="center">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=4rshxnth&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshxnth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=arshxnth&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshxnth&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4rshxnth&theme=highcontrast" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4rshxnth&theme=highcontrast&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4rshxnth&theme=highcontrast&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4rshxnth&theme=highcontrast&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4rshxnth&theme=highcontrast" height="180em" alt="Commitments"/>
 </div>
 
 <br/>
 
 <h1 align="center">💭 Quotes For The Day </h1>
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="200" />
 </div>
 
 <div align="center">
