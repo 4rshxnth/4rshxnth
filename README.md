@@ -54,14 +54,14 @@
 
 <h1 align="center">⚡ GitHub Stats ⚡</h1>
 <p align="center">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=4rshxnth&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=4rshxnth&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4rshxnth&theme=highcontrast" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4rshxnth&theme=highcontrast&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4rshxnth&theme=highcontrast&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4rshxnth&theme=highcontrast&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4rshxnth&theme=highcontrast" height="180em" alt="Commitments"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4rshxnth&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4rshxnth&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4rshxnth&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4rshxnth&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4rshxnth&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
 <br/>
