@@ -64,5 +64,13 @@
 <h1 align="center">💭 Quotes For The Day </h1>
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" />
-    <h3 align="center">Feel free to check out my repositories and collaborate on exciting projects! 🚀</h3>
 </div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4rshxnth/4rshxnth/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4rshxnth/4rshxnth/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/4rshxnth/4rshxnth/output/github-snake.svg" />
+</picture>
+</div>
+<h3 align="center">Feel free to check out my repositories and collaborate on exciting projects! 🚀</h3>
