@@ -54,7 +54,7 @@
 
 <h1 align="center">⚡ GitHub Stats ⚡</h1>
 <p align="center">
-  <img height=400 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=4rshxnth&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img height=350 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=4rshxnth&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4rshxnth&theme=transparent" height="180em" alt="Stats"/>
