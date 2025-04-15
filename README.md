@@ -30,7 +30,7 @@
     <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" height="35" alt="portfolio logo"   />
     </a>
-    <a href="#">
+    <a href="discordapp.com/users/985187509355049011">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
     <a href="#">
