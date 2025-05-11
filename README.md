@@ -80,3 +80,5 @@
 </picture>
 </div>
 <h3 align="center">Feel free to check out my repositories and collaborate on exciting projects! 🚀</h3>
+
+`#EngineeringProfessional` `#EmergingTechnologist` `#AIPractitioner` `#OpenSourceContributor` `#GitHubDeveloper` `#TechInnovator`
