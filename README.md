@@ -68,9 +68,18 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=4rshxnth&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<br/>
+
 <h1 align="center">💭 Quotes For The Day </h1>
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" height="165" />
+    <picture>
+        <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" media="(prefers-color-scheme: dark)">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" height="165">
+    </picture>
 </div>
 
 <div align="center">
