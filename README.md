@@ -41,7 +41,6 @@
     </a>
 </div>
 
-
  <br/>
  
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
@@ -76,6 +75,9 @@
     </picture>
 </div>
 
+</br>
+</br>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4rshxnth/4rshxnth/output/pacman-contribution-graph-dark.svg">
@@ -85,8 +87,12 @@
 
 </div>
 <h3 align="center">Feel free to check out my repositories and collaborate on exciting projects! 🚀</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <div align="center">
     
 `#EngineeringStudent` `#OpenSourceContributor` `#GitHubDeveloper`
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0080FF,100:0040FF&height=120&section=footer&animation=fadeIn" />
 </div>
