@@ -43,9 +43,9 @@
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,html,css,javascript,bootstrap,react,vscode,github,tailwind,git" height="100"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,express,firebase,mongodb,c,java" height="100" />
-    <img src="https://skillicons.dev/icons?i=nextjs,mysql,flask,figma" height="100" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,html,css,javascript,bootstrap,react,tailwind" height="120"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="120" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,express,mongodb,mysql,vscode,git,figma,firebase" height="120" /><br>
 </div>
 
 <br/>
