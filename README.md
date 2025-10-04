@@ -43,8 +43,7 @@
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,html,css,javascript,bootstrap,react,tailwind" height="120"/>
-    <img src="https://skillicons.dev/icons?i=nodejs" height="120" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,html,css,javascript,bootstrap,tailwind,react,nodejs" height="120"/>
     <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,express,mongodb,mysql,vscode,git,figma,firebase" height="120" /><br>
 </div>
 
@@ -83,12 +82,8 @@
 
 </div>
 <h3 align="center">Feel free to check out my repositories and collaborate on exciting projects! 🚀</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <div align="center">
     
 `#EngineeringStudent` `#OpenSourceContributor` `#GitHubDeveloper`
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0080FF,100:0040FF&height=120&section=footer&animation=fadeIn" />
 </div>
