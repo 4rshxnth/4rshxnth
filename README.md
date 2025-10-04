@@ -24,20 +24,17 @@
  <br/>
  
 <div align="center">
-    <a href="https://www.instagram.com/arsh.xnth" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-    </a>
     <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="35" alt="Portfolio logo" />
     </a>
-    <a href="https://discordapp.com/users/985187509355049011" target="_blank" rel="noopener noreferrer" aria-label="Discord">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+    <a href="https://www.linkedin.com/in/arshanth-kumar-777a9a290/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
     </a>
     <a href="mailto:arshanthk@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Gmail">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
     </a>
-    <a href="https://www.linkedin.com/in/arshanth-kumar-777a9a290/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    <a href="https://www.instagram.com/arsh.xnth" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
     </a>
 </div>
 
