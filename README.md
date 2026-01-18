@@ -40,6 +40,9 @@ AI & Data Science Engineering student with a strong Python foundation and practi
   <a href="https://www.instagram.com/arsh.xnth" aria-label="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
   </a>
+  <a href="https://www.youtube.com/@CodeWithAK-dev" aria-label="YouTube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35"/>
+  </a>
 </div>
 
 <br/>
