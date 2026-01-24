@@ -28,7 +28,7 @@ AI & Data Science Engineering student with a strong Python foundation and practi
 <br/>
 
 <div align="center">
-  <a href="#" aria-label="Portfolio">
+  <a href="https://portfolioarshanth.vercel.app" aria-label="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/arshanth-kumar-777a9a290/" aria-label="LinkedIn">
