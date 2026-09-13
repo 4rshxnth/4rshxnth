@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=4rshxnth" alt="Profile Views" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7D815&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+<Developers/>;I'm+Arshanth+Kumar;Python+Full+Stack+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF4500&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+<Developers/>;I'm+Arshanth+Kumar;Python+Full+Stack+Developer;" />
 </h1>
 
 <h3 align="center">
