@@ -1,6 +1,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6600&height=180&section=header&text=ARSHANTH%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18&descColor=FFFFFF" width="100%"/>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Courier+Prime&size=24&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=650&height=50&lines=%3E+BUILDING+WITH+PYTHON_%3B%3E+BACKEND+%7C+APIs+%7C+WEB_%3B%3E+CODE.+BUILD.+REPEAT._"/>
+</div>
 
 <br/>
 <h3 align="center">
