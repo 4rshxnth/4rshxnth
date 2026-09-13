@@ -1,9 +1,8 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=4rshxnth" alt="Profile Views" />
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF4500&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+<Developers/>;I'm+Arshanth+Kumar;Python+Full+Stack+Developer;" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6600&height=180&section=header&text=ARSHANTH%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18&descColor=FFFFFF" width="100%"/>
 
+<br/>
 <h3 align="center">
 Python Full Stack Developer Fresher with strong fundamentals in both frontend and backend development and hands-on experience in building scalable applications. Focused on Python full stack development, RESTful APIs, and modern web technologies.
 </h3>
@@ -31,19 +30,19 @@ Python Full Stack Developer Fresher with strong fundamentals in both frontend an
 
 <div align="center">
   <a href="https://portfolioarshanth.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=todoist&logoColor=white" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/arshanth-kumar-777a9a290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   <a href="mailto:arshanthk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-FF4500?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
   <a href="https://www.instagram.com/arsh.xnth">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
   </a>
   <a href="https://www.youtube.com/@CodeWithAK-dev">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/YouTube-FF4500?style=for-the-badge&logo=youtube&logoColor=white" height="35"/>
   </a>
 </div>
 
