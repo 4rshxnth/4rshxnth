@@ -63,6 +63,7 @@ Python Full Stack Developer Fresher with strong fundamentals in both frontend an
 <td align="center">Django</td>
 <td align="center">REST APIs</td>
 <td align="center">SQL</td>
+<td align="center">Firebase</td>
 </tr>
 
 <tr>
@@ -70,6 +71,7 @@ Python Full Stack Developer Fresher with strong fundamentals in both frontend an
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55"/></td>
 <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="55"/></td>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="55"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="55"/></td>
 </tr>
 </table>
 
@@ -84,7 +86,6 @@ Python Full Stack Developer Fresher with strong fundamentals in both frontend an
 <td align="center">React</td>
 <td align="center">Tailwind CSS</td>
 <td align="center">Flutter</td>
-<td align="center">Firebase</td>
 </tr>
 
 <tr>
@@ -94,7 +95,7 @@ Python Full Stack Developer Fresher with strong fundamentals in both frontend an
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55"/></td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55"/></td>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="55"/></td>
+
 </tr>
 </table>
 
@@ -156,36 +157,12 @@ Python Full Stack Developer Fresher with strong fundamentals in both frontend an
 
 <br/>
 
-<h1 align="center">📊 GitHub Analytics</h1>
+<h1 align="center">📊 GitHub Stats</h1>
 </br>
-
 <div align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=4rshxnth&theme=dark&hide_border=true&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="85%"/>
 
-<table>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=4rshxnth&theme=transparent&hide_border=true" width="100%"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4rshxnth&theme=transparent"/>
-</td>
-<td align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4rshxnth&theme=transparent"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4rshxnth&theme=transparent"/>
-</td>
-<td align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4rshxnth&theme=transparent&utcOffset=5.30"/>
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 <h3 align="center">
@@ -207,3 +184,4 @@ Open to opportunities in Python Full Stack Development and Backend Engineering
 `#PythonFullStack` `#BackendDeveloper` `#WebDevelopment` `#APIs` `#OpenSource`
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:000000&height=100&section=footer" width="100%"/>
