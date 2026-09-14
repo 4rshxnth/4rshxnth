@@ -139,8 +139,9 @@ Open to opportunities in Python Full Stack Development and Backend Engineering
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:000000&height=100&section=footer" width="100%"/>
 
-<div align="right">
-  
-`©4rshxnth@2026`
+<div align="center">
+<sub>
+© 2026 4rshxnth — ALL RIGHTS RESERVED. This repository and its contents are protected by applicable copyright laws.
+</sub>
 
 </div>
