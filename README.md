@@ -7,25 +7,17 @@
 
 <br/>
 <h3 align="center">
-Python Full Stack Developer Fresher with strong fundamentals in both frontend and backend development and hands-on experience in building scalable applications. Focused on Python full stack development, RESTful APIs, and modern web technologies.
+Software Developer focused on Python Full Stack Development, with hands-on experience building web and mobile applications.
 </h3>
 
 <br/>
 
 <div align="center">
 
-🔭 Pursuing **B.Tech – Artificial Intelligence & Data Science**  
+🎓 **B.Tech – Artificial Intelligence & Data Science**
 🏫 **CMS College of Engineering & Technology, Coimbatore**
 
-🌱 Focused on **Python Full Stack Development, APIs, and Backend Systems**
-
-📱 Experience with **Flutter & Firebase** for mobile apps
-
-🌐 Working knowledge of **HTML, CSS, JavaScript, React**
-
-🛠️ Familiar with **SQL, Git, GitHub, and Arduino**
-
-🎯 Career Focus: **Python Full Stack Developer | Backend Developer**
+🚀 **Focused on building practical, scalable & user-centric applications**
 
 </div>
 
@@ -51,12 +43,11 @@ Python Full Stack Developer Fresher with strong fundamentals in both frontend an
 
 <br/>
 
-<h1 align="center">⚒️ Technical Skills ⚒️</h1>
+<h1 align="center"><strong>// TECHNICAL SKILLS</strong></h1>
 <br/>
 
 <div align="center">
 
-### Backend & Core Development
 <table>
 <tr>
 <td align="center">Python</td>
@@ -64,92 +55,52 @@ Python Full Stack Developer Fresher with strong fundamentals in both frontend an
 <td align="center">REST APIs</td>
 <td align="center">SQL</td>
 <td align="center">Firebase</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55"/></td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="55"/></td>
-</tr>
-</table>
-
-<br/>
-
-### Frontend & Mobile Development
-<table>
-<tr>
 <td align="center">HTML5</td>
 <td align="center">CSS3</td>
 <td align="center">JavaScript</td>
 <td align="center">React</td>
 <td align="center">Tailwind CSS</td>
-<td align="center">Flutter</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55"/></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55"/></td>
-
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="45"/></td>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45"/></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/></td>
 </tr>
 </table>
 
 <br/>
 
-### AI / Data Science Stack
 <table>
 <tr>
+<td align="center">Flutter</td>
 <td align="center">NumPy</td>
 <td align="center">Pandas</td>
 <td align="center">TensorFlow</td>
 <td align="center">OpenCV</td>
 <td align="center">Machine Learning</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55"/></td>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55"/></td>
-
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="55"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### Tools & Version Control
-<table>
-<tr>
 <td align="center">Git</td>
-<td align="center">GitHub</td>
 <td align="center">VS Code</td>
 <td align="center">Arduino</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55"/></td>
-
-<td align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
-</picture>
-</td>
-
-<td align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55"/>
-</td>
-
-<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="55"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="45"/></td>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45"/></td>
+<td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="45"/></td>
 </tr>
 </table>
 
@@ -157,7 +108,7 @@ Python Full Stack Developer Fresher with strong fundamentals in both frontend an
 
 <br/>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center"><strong>// GITHUB</strong></h1>
 </br>
 <div align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=4rshxnth&theme=dark&hide_border=true&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="85%"/>
