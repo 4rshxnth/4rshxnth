@@ -134,7 +134,7 @@ Open to opportunities in Python Full Stack Development and Backend Engineering
 
 <div align="center">
   
-`#PythonFullStack` `#BackendDeveloper` `#MobileDevelopment` `#WebDevelopment` `#APIs` `#OpenSource`
+`#PythonFullStack` `#BackendDeveloper` `#WebDevelopment` `#APIs` `#OpenSource`
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:000000&height=100&section=footer" width="100%"/>
