@@ -43,7 +43,8 @@ Software Developer focused on Python Full Stack Development, with hands-on exper
 
 <br/>
 
-<h1 align="center"><strong>// TECHNICAL SKILLS</strong></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF8C00&text=//%20TECHNICAL%20SKILLS&fontSize=32&fontAlignY=50&fontWeight=900" />
 <br/>
 
 <div align="center">
@@ -108,11 +109,12 @@ Software Developer focused on Python Full Stack Development, with hands-on exper
 
 <br/>
 
-<h1 align="center"><strong>// GITHUB</strong></h1>
-</br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF8C00&text=//%20GITHUB%20STATS&fontSize=32&fontAlignY=50&fontWeight=900" />
+</div>
+
 <div align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=4rshxnth&theme=dark&hide_border=true&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="85%"/>
-
 </div>
 
 </div>
@@ -131,8 +133,14 @@ Open to opportunities in Python Full Stack Development and Backend Engineering
 </div>
 
 <div align="center">
-
-`#PythonFullStack` `#BackendDeveloper` `#WebDevelopment` `#APIs` `#OpenSource`
+  
+`#PythonFullStack` `#BackendDeveloper` `#MobileDevelopment` `#WebDevelopment` `#APIs` `#OpenSource`
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:000000&height=100&section=footer" width="100%"/>
+
+<div align="right">
+  
+`©4rshxnth@2026`
+
+</div>
